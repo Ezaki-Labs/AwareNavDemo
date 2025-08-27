@@ -4,7 +4,7 @@ This project demonstrates two experimental AI navigation systems of AwareNav plu
 - **Permission-based AI navigation** through disguises (*Agent 74*)
 - **Emotion-driven behavior and memory-based navigation** (*Hungry Fox*)
 
-👉 This demo is powered by the [AwareNav Plugin](https://github.com/eduardzakaryan90/AwareNav).
+> 👉 This demo is powered by the [AwareNav Plugin](https://github.com/eduardzakaryan90/AwareNav).
 ---
 
 ## 🕵️‍♂️ Agent 74 — Permission System Demo
