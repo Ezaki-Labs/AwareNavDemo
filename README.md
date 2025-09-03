@@ -5,6 +5,15 @@ This project demonstrates two experimental AI navigation systems of AwareNav plu
 - **Emotion-driven behavior and memory-based navigation** (*Hungry Fox*)
 
 > 👉 This demo is powered by the [AwareNav Plugin](https://github.com/eduardzakaryan90/AwareNav).
+
+---
+
+## ❗Disclaimer
+
+This is not a full game — it is a demo project built to showcase the capabilities of the **AwareNav** plugin for Unreal Engine.
+
+👉 To run the demo, you’ll need to download the [AwareNav Plugin](https://github.com/eduardzakaryan90/AwareNav) and place it under the project’s `/Plugins/` folder.
+
 ---
 
 ## 🕵️‍♂️ Agent 74 — Permission System Demo
